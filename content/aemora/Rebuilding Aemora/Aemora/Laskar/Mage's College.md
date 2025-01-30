@@ -1,0 +1,1 @@
+The **Mage's College** is an ancient institution in [[Laskar]], offering tutelage and financing to those attuned to the Weave.

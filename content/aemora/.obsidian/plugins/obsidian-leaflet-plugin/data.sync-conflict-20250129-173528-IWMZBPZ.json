@@ -1,0 +1,202 @@
+{
+  "mapMarkers": [
+    {
+      "id": "AemoraMap",
+      "lastAccessed": 1738112683220,
+      "markers": [
+        {
+          "id": "ID_5adb588aeb3a",
+          "type": "default",
+          "loc": [
+            1024.2118337790243,
+            1150.0100196197707
+          ],
+          "link": "Artavera",
+          "layer": "Aemora.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5615283298924661,
+            -0.666804579283219
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b094919ea49",
+          "type": "default",
+          "loc": [
+            406.827725009054,
+            919.6138475149157
+          ],
+          "link": "Holburg",
+          "layer": "Aemora.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.44903019898189245,
+            -0.2648618001361029
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a6b3849190b",
+          "type": "default",
+          "loc": [
+            252.1007350282148,
+            883.4457533358549
+          ],
+          "link": "Laskar",
+          "layer": "Aemora.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4313699967460229,
+            -0.16412808270066068
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8e9798baa9b",
+          "type": "default",
+          "loc": [
+            573.1549761072342,
+            287.92295311256953
+          ],
+          "link": "Zargas",
+          "layer": "Aemora.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.14058737944949684,
+            -0.37314777090314727
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b186b68894a",
+          "type": "default",
+          "loc": [
+            386.7301683155733,
+            940.4249720274634
+          ],
+          "link": "Sefport",
+          "layer": "Aemora.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.45919188087278484,
+            -0.2517774533304514
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Rebuilding Aemora/Aemora/Aemora.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -1.55,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "East Aemora.png",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "East Aemora.png"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1,
+    "minZoom": -3,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.09328358208955223,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.25,
+    "zoomFeatures": false,
+    "id": "AemoraMap",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        1642,
+        2048
+      ]
+    ],
+    "width": "95%",
+    "lat": 821,
+    "long": 1024,
+    "unit": "km",
+    "recenter": false,
+    "darkmode": false,
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

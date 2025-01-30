@@ -1,0 +1,1 @@
+**Artavera** is a city in the north-east of [[Aemora]]. It is the origin of [[Ikara the Ruthless|Ikara]]'s takeover of the northern continent and the second most important city in the nation behind the capital city of [[Zargas]].
