@@ -1,11 +1,4 @@
 baseURL = 'https://zdunbrack.github.io/zach-dnd-docs/'
 languageCode = 'en-us'
 title = 'Zach D&D Campaign Docs'
-
-[module]
-    [[module.imports]]
-        path = "github.com/colinwilson/lotusdocs"
-        disable = false
-    [[module.imports]]
-        path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
-        disable = false
+theme = 'lotusdocs'
