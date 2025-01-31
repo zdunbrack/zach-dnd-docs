@@ -2,8 +2,8 @@
 import os
 from pathlib import Path
 
-os.system("rm -rf content/aemora/*")
-os.system("cp -r /c/Users/zachd/Documents/aemora/ ./content")
+os.system("rm -rf content/*")
+os.system("cp -r /c/Users/zachd/Documents/aemora/* ./content")
 
 for root, subdirs, files in os.walk('./content'):
   for file in files:

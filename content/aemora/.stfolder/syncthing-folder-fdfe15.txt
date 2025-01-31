@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: aemora
-created: 2025-01-24T16:54:42-05:00
