@@ -1,3 +1,7 @@
+---
+tags:
+  - publish
+---
 **Nilhitu** is the goddess of the wilds and the underground. Her followers believe that she was the first, defining the natural order before [[Kruhena]] split the land with oceans. Then came the sun and the moon, [[Myskili]] and [[Elzanir]], and together the four of them make up the [[Old Gods]].
 
 Autumn is nature's season, as the world enjoys what time it has until winter tests its mettle. The Huntress is not a protector of animals - the natural order includes death and decay as much as life's bounty, and Nilhitu's domain includes all of it.

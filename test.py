@@ -1,8 +1,15 @@
 #!/c/Users/zachd/AppData/Local/Microsoft/WindowsApps/python
 import os
+from pathlib import Path
 
-os.system("cp -r /c/Users/zachd/Documents/aemora ./content")
-for root, subdirs, files in os.walk("."):
+os.system("rm -rf content/aemora/*")
+os.system("cp -r /c/Users/zachd/Documents/aemora/ ./content")
+
+for root, subdirs, files in os.walk('./content'):
   for file in files:
-    if "public: true" not in open(file).read():
-      print("file: " + str(file) + " is not public")
+    fullPath = os.path.join(root, file)
+    if ".md" in file and """---
+tags:
+  - publish
+---""" not in open(fullPath).read():
+      os.remove(fullPath)

@@ -1,3 +1,7 @@
+---
+tags:
+  - publish
+---
 **Elzanir** is the god of the night, dreams, and the moon. He and his twin sister [[Myskili]] join [[Kruhena]] and [[Nilhitu]] in making up the [[Old Gods]], who correspond to the seasons and the natural world.
 
 Elzanir is affiliated with Winter, when the snow oft comes down to provide a blanket to the earth below. He tends to be represented as a cat watching down from the rooftops, an innkeeper inviting travelers to rest, or the moon itself providing light in the darkness.

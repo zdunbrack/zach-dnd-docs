@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rebuilding Aemora/The Seven/Myskili.md",
+                "file": "Private/Player Characters/Betalia Demacras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Myskili"
+              "title": "Betalia Demacras"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rebuilding Aemora/Aemora/Capital Mail.md",
+                "file": "Campaign/The Seven/Elzanir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capital Mail"
+              "title": "Elzanir"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#publish",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +143,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -183,9 +185,23 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "9fcdfe3207d275ef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "464a83ce6a0e96e6",
@@ -222,39 +238,42 @@
       "obsidian-importer:Open Importer": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "syncthing-integration:Open Syncthing conflict manager modal": false,
-      "ob2static-site:Current file - Static Site MD Export": false,
-      "ob2static-site:All files - Static Site MD Export": false,
       "calendarium:Open Calendarium": false
     }
   },
   "active": "a122861e96936dd1",
   "lastOpenFiles": [
-    "Rebuilding Aemora/Aemora/Aemora.md",
-    "Rebuilding Aemora/Public Documents",
-    "Rebuilding Aemora/Aemora/Zargas/Taryn the Brave.md",
-    "Rebuilding Aemora/Aemora/Zargas/Taryn the Brave 1.md",
-    "Rebuilding Aemora/The Seven/Elzanir.md",
-    "Rebuilding Aemora/Session Notes/Chapter 1 - Greed Is Good/Session 6 - Hell to Pay.md",
-    "Rebuilding Aemora/Session Notes/Chapter 1 - Greed Is Good/Chapter Summary.md",
-    "Rebuilding Aemora/Aemora/Artavera/Artavera.md",
+    "Private/Player Characters/Betalia Demacras.md",
+    "Private/Sefport/Factions/Inspectors.md",
+    "Private/Sefport/Factions/Steel.md",
+    "Private/Sefport/Factions/Tunnel Snakes.md",
+    "Private/Sefport/Factions/Factions.md",
+    "Private/Laskar/Salvador Hernandez.md",
+    "Private/Laskar/Mage's College.md",
+    "Private/Laskar/Laskar.md",
+    "Private/Sefport/Sefport.md",
+    "Private/Sefport/Rewards.md",
+    "Private/Sefport/Train Prep.md",
+    "Private/Sefport/NPCs/Reagan Filigree.md",
+    "Private/Sefport/NPCs/Pip Halligan.md",
+    "Private/Sefport/NPCs/NPCs.md",
+    "Private/Sefport/NPCs/Elstan Siannodel.md",
+    "Private/Sefport/Locations/Locations.md",
+    "Private/Sefport/Locations/Dark Alley.md",
+    "Private/Sefport/Locations/Bramble's Barrow.md",
+    "Private/Player Goals.md",
     "Quick Links.md",
-    "Rebuilding Aemora/Session Notes/Session 0 - Session Template.md",
-    "Rebuilding Aemora/Session Notes/Chapter 2 - Blade in the Dark/Chapter Summary.md",
-    "Rebuilding Aemora/Session Notes/Chapter 1 - Greed Is Good/Session 2 - Snakes in Sefport.md",
-    "Rebuilding Aemora/The Seven/Gidara.md",
-    "Rebuilding Aemora/The Seven/Myskili.md",
-    "Rebuilding Aemora/The Seven/Sylvaris.md",
-    "Rebuilding Aemora/The Seven/Raxus.md",
-    "Rebuilding Aemora/The Seven/Kruhena.md",
-    "Rebuilding Aemora/The Seven/Nilhitu.md",
-    "Rebuilding Aemora/Aemora/Laskar/Salvador Hernandez.md",
-    "Rebuilding Aemora/Player Characters/Scan Oakburn.md",
-    "Rebuilding Aemora/Player Characters/Temple Roan.md",
-    "Rebuilding Aemora/Player Characters/Etar Ildvar.md",
-    "Rebuilding Aemora/Player Characters/Betalia Demacras.md",
-    "Rebuilding Aemora/Session Notes/Chapter 1 - Greed Is Good/Session 1 - A Simple Contract.md",
-    "Rebuilding Aemora/Aemora/Capital Mail.md",
-    "Rebuilding Aemora/Aemora/Holburg.md",
+    "Private",
+    "Treasure Generator.pdf",
+    "zArchive/Calendar.md",
+    "zArchive/The Plot.md",
+    "2025-01-30.md",
+    "zArchive",
+    "Campaign/The Seven/Sylvaris.md",
+    "Campaign/The Seven/Raxus.md",
+    "Campaign/The Seven/Nilhitu.md",
+    "Untitled.canvas",
+    "Campaign/Public Documents",
     "zattachments/cambion.png",
     "zattachments/Aemora.png",
     "zattachments/bearded devil.png",
@@ -269,10 +288,7 @@
     "Rebuilding Aemora/The Seven/~syncthing~Untitled.md.tmp",
     "Rebuilding Aemora/The Seven/~syncthing~Elzanir.md.tmp",
     "Rebuilding Aemora/Session Notes/Chapter 1 - Greed Is Good/~syncthing~Session 6 - Hell to Pay.md.tmp",
-    "Treasure Generator.pdf",
     "zattachments/East Aemora.png",
-    "Public Info",
-    "Rebuilding Aemora/Session Notes/Chapter 2 - Blade in the Dark",
-    "Rebuilding Aemora/Session Notes/Chapter 1 - Greed Is Good"
+    "Public Info"
   ]
 }

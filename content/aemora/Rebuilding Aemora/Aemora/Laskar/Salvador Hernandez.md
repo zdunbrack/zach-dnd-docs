@@ -1,1 +1,0 @@
-**Salvador Hernandez** was the second-in-command of the now-defunct [[Silver Blade]]. 
