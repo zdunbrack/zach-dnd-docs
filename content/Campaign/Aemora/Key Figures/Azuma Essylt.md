@@ -1,0 +1,7 @@
+---
+tags:
+  - publish
+---
+**Azuma Essylt** was the dwarf leader of the [[Greyhounds]], whose domain included everything north of the Kharesti Mountains. He served under [[Taryn the Brave]] and preferred to travel throughout the northern regions rather than operating out of the dominant city of [[Artavera]].
+
+By all reports, he was an effective leader. Those close to him said that he was not always fond of the position but had a deep sense of duty which kept him going. So when Taryn passed away and left an opening for the [[Lord of Zargas]], Azuma stayed home while [[Pulomi Ligato]] and [[Miggora Artoli]] raced to the capital to claim the title. After the news spread about the outcome of that contest, Azuma seemingly disappeared to retreat to a quieter life. Without a leader, the [[Steel Legion]] was faltering anyway, and the [[Capital Council]] was unable to organize the funds and infrastructure required to keep things running. Often enough to be plausible, reports spread that he has been spotted in one community or another in the north of the continent. But they remain only reports, and those among the Council who wish him to come back and take the title of Lord of Zargas have been unable to make that happen.
