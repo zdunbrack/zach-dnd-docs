@@ -6,7 +6,7 @@ tags:
 >
 >But now, the title has been left empty for five years as the [[Capital Council]] has found themselves unable to align on who should next be honored with the title. This is unprecedented in recorded history and unless someone takes command soon, one must wonder what the country's future holds...
 >
->*A History of Aemora, the Broken Continent: Sixth Edition*
+>*A History of Aemora, the Broken Continent: Sixth Edition*    
 >by Banci Bellowheart, Professor of National History at Eastside Academy
 
 The title of **Lord of Zargas** has been held by many individuals across the many centuries the city has existed. In recent times, the title has been almost exclusively held by humans. Ambition is humanity's defining trait, and that truth reveals itself in the history of succession of the role.
