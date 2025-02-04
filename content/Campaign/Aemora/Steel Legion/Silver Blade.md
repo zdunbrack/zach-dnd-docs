@@ -4,7 +4,7 @@ tags:
 ---
 >"If you can't beat 'em, beat 'em anyway! Or die tryin'. But ideally, beat 'em.
 >
->- [[Miggora Artoli]], leader of the Silver Blade
+>\- [[Miggora Artoli]], leader of the Silver Blade
 
 The **Silver Blade** was one of the four units of the [[Steel Legion]] under [[Taryn the Brave]]. Their mission was a simple one: eliminate monsters and achieve glory through victory. Their influence extended through the eastern half of both the Shipney Woods and the Great Plain. They ensured that their domain was safe from monsters, leaving issues of governance to the locals - for better or worse.
 

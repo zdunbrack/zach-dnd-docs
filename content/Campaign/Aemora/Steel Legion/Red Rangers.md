@@ -4,7 +4,7 @@ tags:
 ---
 >Protect. Serve. Repeat. That is our creed.
 >
->- [[Pulomi Ligato]], leader of the Red Rangers
+>\- [[Pulomi Ligato]], leader of the Red Rangers
 
 Of the units of the [[Steel Legion]], the **Red Rangers** were perhaps the most conventional. Their job was to protect their people, and that's what they did. Pulomi came from a military background prior to working with [[Taryn the Brave]] in creating the Legion and carried that culture into her organization.
 

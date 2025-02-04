@@ -8,7 +8,7 @@ tags:
 ---
 >"I understand that times have been tough for many on this continent. Remember that the Council and I are with you always. Through might, through order, through unity, we will persevere. If you will grant me your strength and your faith, we can ensure that this century will be one of progress and prosperity. May Justice watch over us all.
 >
->- Taryn the Brave in a speech to citizens of [[Zargas]], 1300 Spring 1
+>\- Taryn the Brave in a speech to citizens of [[Zargas]], 1300 Spring 1
 
 Taryn Greenstone, better known as **Taryn the Brave**, was born in 1269 Spring to a family of aristocrats in [[Artavera]]. It's hard to separate fact from legend when it comes to his youth, but some facts can be firmly established.
 

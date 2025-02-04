@@ -4,7 +4,7 @@ tags:
 ---
 >"You've got a rat? The Hounds will sniff 'em out. No need to worry."
 >
->- Vinik Sechehr, Greyhound captain
+>\- Vinik Sechehr, Greyhound captain
 
 The **Greyhounds** were one of the four units of the [[Steel Legion]] under [[Taryn the Brave]]. They covered everything north of the Kharesti Mountains, making them the largest of the groups. Led by [[Azuma Essylt]], they were tightly integrated into their local settlements and functioned as arbiters of justice for many communities.
 

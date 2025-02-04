@@ -4,7 +4,7 @@ tags:
 ---
 >"It's like they're modrons! Protocol this, protocol that. Can they just listen to me for once and quit it with the protocol?"
 >
->- Myrniss Boldbeard, disgruntled citizen
+>\- Myrniss Boldbeard, disgruntled citizen
 
 The **Capital Command** were a unit of the [[Steel Legion]] that reported to [[Taryn the Brave]] directly rather than through any intermediate leader. They covered a relatively modest area of the continent, only handling the western half of the Shipney Woods and all of the Rujagu Desert.
 
