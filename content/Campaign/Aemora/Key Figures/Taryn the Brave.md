@@ -20,9 +20,9 @@ After that, Taryn is said to have transformed into a different person. In this d
 
 So as the century changed, so did the Lordship, and Taryn set to implementing his will. Over the following decade, he created the [[Steel Legion]] and its four units. He selected the leaders for each:
 
-[[Pulomi Ligato]], the former head of Zargas's military, would lead the [[Red Rangers]];    
+[[Pulomi Ligato]], the former head of Zargas's military, would command the [[Red Rangers]];    
 [[Miggora Artoli]], a rising star with a penchant for adventure and monster hunting, would run the [[Silver Blade]];    
-[[Azuma Essylt]], a long-time friend of Taryn from his time in Artavera, would own the [[Greyhounds]];    
+[[Azuma Essylt]], a long-time friend of Taryn from his time in Artavera, would lead the [[Greyhounds]];    
 and Taryn himself would run the [[Capital Command]].
 
 In the following decades, the once-dangerous wilds were tamed. A strong road network was built and maintained, and its safety was a principal priority for the [[Capital Council]]. Trade boomed, and whatever creatures might threaten the coasts were contained and neutralized by the persistent vigilance of the Steel Legion. The abominations of the wilderness were pushed back from civilized territory, and the nation was happy.
