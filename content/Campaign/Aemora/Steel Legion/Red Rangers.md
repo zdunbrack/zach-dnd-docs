@@ -2,7 +2,7 @@
 tags:
   - publish
 ---
->Protect. Serve. Repeat. That is our creed.
+>"Protect. Serve. Repeat. That is our creed."
 >
 >\- [[Pulomi Ligato]], leader of the Red Rangers
 

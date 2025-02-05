@@ -2,7 +2,7 @@
 tags:
   - publish
 ---
->"If you can't beat 'em, beat 'em anyway! Or die tryin'. But ideally, beat 'em.
+>"If you can't beat 'em, beat 'em anyway! Or die tryin'. But really, just beat 'em!
 >
 >\- [[Miggora Artoli]], leader of the Silver Blade
 
