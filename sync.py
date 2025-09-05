@@ -14,7 +14,7 @@ for root, subdirs, files in os.walk('./content'):
         content = open(fullPath).read()
     separator = "# Private"
     if len(content.split(separator)) > 1:
-      print(str(content.split(separator)))
+      print(str(content.split(separator)[0]))
       # print(content.split(separator)[1])
 #     if """
 # tags:
