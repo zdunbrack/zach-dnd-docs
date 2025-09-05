@@ -18,7 +18,7 @@ tags:
 """ not in content:
           try:
             os.remove(fullPath)
-          catch Exception e:
+          except Exception:
             pass
         else:
           separator = "# Private"
