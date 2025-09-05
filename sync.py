@@ -19,4 +19,5 @@ tags:
         else:
           separator = "# Private"
           if len(content.split(separator)) > 1:
-            print(content.split(separator)[1])
+            print(str(content.split(separator)))
+            # print(content.split(separator)[1])
