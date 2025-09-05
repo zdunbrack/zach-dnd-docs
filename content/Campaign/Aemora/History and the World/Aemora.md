@@ -2,6 +2,6 @@
 tags:
 
 ---
-**Aemora** is the continent in which our adventure takes place. 
+**Aemora** is the continent on which our adventure takes place. 
 
 ![[Aemora (cropped).png]]
