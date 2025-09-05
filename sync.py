@@ -10,12 +10,13 @@ for root, subdirs, files in os.walk('./content'):
     fullPath = os.path.join(root, file)
     with open(fullPath, 'r', encoding='utf-8') as file:
       content = open(fullPath).read()
-      if ".md" in file and """
+      if ".md" in file:
+        if """
 tags:
   - publish
 """ not in content:
-        os.remove(fullPath)
-      else:
-        separator = "# Private"
-        if len(content.split(separator)) > 1:
-          print(content.split(separator)[1])
+          os.remove(fullPath)
+        else:
+          separator = "# Private"
+          if len(content.split(separator)) > 1:
+            print(content.split(separator)[1])
