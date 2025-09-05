@@ -13,3 +13,6 @@ tags:
   - publish
 """ not in open(fullPath).read():
       os.remove(fullPath)
+    else:
+      print(f"reading {fullPath}")
+      print(open(fullPath).read())
