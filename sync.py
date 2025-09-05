@@ -9,15 +9,17 @@ for root, subdirs, files in os.walk('./content'):
   for file in files:
     fullPath = os.path.join(root, file)
     print(fullPath)
-    if ".md" in fullPath:
+    if ".md" in fullPath and "not campaign" not in fullPath:
       with open(fullPath, 'r', encoding='utf-8') as file:
         content = open(fullPath).read()
         if """
 tags:
   - publish
 """ not in content:
-          print("removing " + fullPath)
-          os.remove(fullPath)
+          try:
+            os.remove(fullPath)
+          catch Exception e:
+            pass
         else:
           separator = "# Private"
           if len(content.split(separator)) > 1:

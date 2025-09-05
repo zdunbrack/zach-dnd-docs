@@ -1,6 +1,6 @@
 #### todos 
 - [ ] figure out purchasing furniture
-	- [x] visit Room & Board by Kenmore, take notes
+	- [ ] visit Room & Board by Kenmore, take notes
 	- [ ] visit herman miller store in seaport (appointment?)
 	- [ ] plants
 	- [ ] lights
