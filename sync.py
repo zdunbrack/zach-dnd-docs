@@ -12,17 +12,16 @@ for root, subdirs, files in os.walk('./content'):
     if ".md" in fullPath and "not campaign" not in fullPath:
       with open(fullPath, 'r', encoding='utf-8') as file:
         content = open(fullPath).read()
-    if """
-tags:
-- publish
-""" not in content:
-      try:
-        os.remove(fullPath)
-      except Exception:
-        print(f"failed to remove {fullPath}")
-        pass
-    else:
-      separator = "# Private"
-      if len(content.split(separator)) > 1:
-        print(str(content.split(separator)))
-        # print(content.split(separator)[1])
+    separator = "# Private"
+    if len(content.split(separator)) > 1:
+      print(str(content.split(separator)))
+      # print(content.split(separator)[1])
+#     if """
+# tags:
+# - publish
+# """ not in content:
+#       try:
+#         os.remove(fullPath)
+#       except Exception:
+#         print(f"failed to remove {fullPath}")
+#         pass
