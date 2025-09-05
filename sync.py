@@ -16,4 +16,5 @@ tags:
       os.remove(fullPath)
     else:
       separator = "# Private"
-      print(content.split(separator)[1])
+      if len(content.split(separator) > 1):
+        print(content.split(separator)[1])
