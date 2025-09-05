@@ -19,6 +19,7 @@ tags:
           try:
             os.remove(fullPath)
           except Exception:
+            print(f"failed to remove {fullPath}")
             pass
         else:
           separator = "# Private"
