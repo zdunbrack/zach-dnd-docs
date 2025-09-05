@@ -1,0 +1,9 @@
+- [[Salvador Hernandez]] may eventually be blackmailed - [[Black Hand]] don't want to reveal their hand yet though
+	- maria might die due to salvador's conviction. he loves her, but he won't be blackmailed.
+	- he will make the hard decision and suffer the consequences.
+- [[Shortstack]] is bartending in Old Cross. Maintaining some degree of contact with the [[Tunnel Snakes]].
+- [[Aris Demacras]] is investigating divination at the [[Mage's College]]. She, like Salvador, will eventually be able to determine that Leo is alive but inaccessible by scrying. 
+- The [[Sunguard]] has Osvin, an assassin for the [[Drake's Claw]]. They will interrogate him and follow up on leads. After the heroes' discussion with Captain Malgrave, the Sunguard will be looking into connecting with the [[Septenary Order]] about forcing more information out of Osvin. Amalia of the Order will be more receptive than normal since a member of their faction was targeted.
+- Gov's brother in [[Sefport]] told them to wipe out the [[Tunnel Snakes]]. He might not be so happy that they didn't. He might be dead.
+- [[Reagan Filigree]] is definitely trying to murder the heads of the Gold Court
+	- nothing's probably happened yet, but something probably will by the time they get back from their journey

@@ -25,5 +25,3 @@ for root, subdirs, files in os.walk('./content'):
 #       except Exception:
 #         print(f"failed to remove {fullPath}")
 #         pass
-
-os.system("rm -rf content/*")
