@@ -16,6 +16,7 @@ for root, subdirs, files in os.walk('./content'):
 tags:
   - publish
 """ not in content:
+          print("removing " + fullPath)
           os.remove(fullPath)
         else:
           separator = "# Private"
