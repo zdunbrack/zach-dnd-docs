@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 **Nilhitu** is the goddess of the wilds and the underground. Her followers believe that she was the first, defining the natural order before [[Kruhena]] split the land with oceans. Then came the sun and the moon, [[Myskili]] and [[Elzanir]], and together the four of them make up the [[Old Gods]].
 

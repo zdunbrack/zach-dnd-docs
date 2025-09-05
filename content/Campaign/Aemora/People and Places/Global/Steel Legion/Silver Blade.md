@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 >"If you can't beat 'em, beat 'em anyway! Or die tryin'. But really, just beat 'em!
 >

@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 **Azuma Essylt** was the dwarf leader of the [[Greyhounds]], whose domain included everything north of the Kharesti Mountains. He served under [[Taryn the Brave]] and preferred to travel throughout the northern regions rather than operating out of the dominant city of [[Artavera]].
 

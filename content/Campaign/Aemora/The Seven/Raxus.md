@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 **Raxus** is the god of valor and loss, defining the [[New Gods]] with [[Gidara]] and [[Sylvaris]]. His domain is that of battle, death, and rebirth.
 

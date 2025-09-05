@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 The **Capital Council** functions as the legislative and executive arms of government in [[Zargas]]. They both confirm the authority of and report to the [[Lord of Zargas]], who defines a direction for [[Aemora]] and acts as head of the country's military forces.
 

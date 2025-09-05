@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 **Gidara** is the goddess of order and craftsmanship. She forms the trio known as the [[New Gods]] alongside [[Sylvaris]] and [[Raxus]], whose combined domain covers civilization and its consequences.
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 >On the [[Aemora|Aemoran]] continent, no title is as influential as the *Lord of Zargas*. For as long as the continent has been united, [[Zargas]] has been its capital.
 >

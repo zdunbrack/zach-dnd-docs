@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 **Myskili** is the goddess of love, magic, and the sun. The foil of her twin brother [[Elzanir]], Myskili is all about passion and energy. The pair makes up half of the [[Old Gods]], rounded out by the natural gods [[Nilhitu]] and [[Kruhena]].
 

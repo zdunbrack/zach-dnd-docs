@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 **Elzanir** is the god of the night, dreams, and the moon. He and his twin sister [[Myskili]] join [[Kruhena]] and [[Nilhitu]] in making up the [[Old Gods]], who correspond to the seasons and the natural world.
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 >"It's like they're modrons! Protocol this, protocol that. Can they just listen to me for once and quit it with the protocol?"
 >

@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 The **New Gods** is a term for the collection of gods in this world related to ideas of civilization and humanity. These are [[Gidara]], [[Sylvaris]], and [[Raxus]].
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 >"Protect. Serve. Repeat. That is our creed."
 >

@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 >"Miggy is the bravest person I've ever met! That man would take a boar in a fistfight... and he'd probably win!
 >

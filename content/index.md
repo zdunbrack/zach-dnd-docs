@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 this is the homepage
 

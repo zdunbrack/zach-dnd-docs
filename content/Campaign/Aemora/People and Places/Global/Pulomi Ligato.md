@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 >"Oh, she's tough. But she's got a heart of gold once you get to know her. Okay, maybe silver? She's not *that* bad. Definitely at least bronze. Probably."
 >

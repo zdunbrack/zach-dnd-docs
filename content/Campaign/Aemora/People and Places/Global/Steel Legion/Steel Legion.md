@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 The **Steel Legion** is the aggregate name for the four major military units that managed and protected [[Aemora]] under [[Taryn the Brave]]:
 - The [[Capital Command]], led by [[Taryn the Brave|Taryn Greenstone]]

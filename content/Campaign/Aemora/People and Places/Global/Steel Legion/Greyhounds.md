@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 >"You've got a rat? The Hounds will sniff 'em out. No need to worry."
 >

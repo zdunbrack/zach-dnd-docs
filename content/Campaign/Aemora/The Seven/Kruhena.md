@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 **Kruhena** is the goddess of the sea and storms. She and [[Nilhitu]] are the oldest of the gods; it is said that it was their feud that split the world into land and sea. They make up half of the [[Old Gods]], with [[Myskili]] and [[Elzanir]] completing the group.
 

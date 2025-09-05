@@ -1,6 +1,6 @@
 ---
 tags:
-  - publish
+
 ---
 The **Old Gods** is a term for the collection of gods in this world related to the natural world. These are [[Nilhitu]], [[Kruhena]], [[Myskili]], and [[Elzanir]].
 
