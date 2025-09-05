@@ -8,7 +8,8 @@ os.system("cp -r /c/Users/zachd/Documents/aemora/* ./content")
 for root, subdirs, files in os.walk('./content'):
   for file in files:
     fullPath = os.path.join(root, file)
-    content = open(fullPath).read()
+    with open(fullPath, 'rw', encoding='utf-8') as file:
+      content = open(fullPath).read()
     if ".md" in file and """
 tags:
   - publish
