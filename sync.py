@@ -8,11 +8,12 @@ os.system("cp -r /c/Users/zachd/Documents/aemora/* ./content")
 for root, subdirs, files in os.walk('./content'):
   for file in files:
     fullPath = os.path.join(root, file)
+    content = open(fullPath).read()
     if ".md" in file and """
 tags:
   - publish
-""" not in open(fullPath).read():
+""" not in content:
       os.remove(fullPath)
     else:
-      print(f"reading {fullPath}")
-      print(open(fullPath).read())
+      separator = "# Private"
+      print(content.split(separator)[1])
