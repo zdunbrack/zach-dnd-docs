@@ -8,7 +8,8 @@ os.system("cp -r /c/Users/zachd/Documents/aemora/* ./content")
 for root, subdirs, files in os.walk('./content'):
   for file in files:
     fullPath = os.path.join(root, file)
-    if ".md" in file:
+    print(fullPath)
+    if ".md" in fullPath:
       with open(fullPath, 'r', encoding='utf-8') as file:
         content = open(fullPath).read()
         if """
