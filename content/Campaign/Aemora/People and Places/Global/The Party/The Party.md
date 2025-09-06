@@ -2,9 +2,9 @@
 tags:
 
 ---
-**The Party** is the placeholder name for the characters in the one campaign I'm running in this world.
+**The Party** is the group of characters taking on the [[Black Hand]] and fighting to return to a relative age of prosperity for [[Aemora]].
 
-The party is:
+Their members are:
 - [[Betalia Demacras]]
 - [[Etar Ildvar]]
 - [[Scan Oakburn]]

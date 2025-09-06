@@ -2,6 +2,4 @@
 tags:
 
 ---
-butler for [[Salvador Hernandez]]
-speaks like Leech (deferential, british, "sir")
-secretly a monk kind of
+**Anton Estevez** is the elven butler for [[Salvador Hernandez]].

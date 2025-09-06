@@ -13,4 +13,4 @@ Broken into seven functions:
 - Left hand (volunteering/outreach)
 - Right hand (independent combat capabilities)
 - Mind (research, defense)
-- Heart (???)
+- Heart (other)
