@@ -6,11 +6,11 @@ The **Septenary Order** is the primary religious institution in [[Aemora]], coor
 
 They maintain temples in major settlements.
 
-Broken into seven functions:
-- Head (administration)
-- Eyes (information gathering)
-- Mouth (PR/evangelization)
-- Left hand (volunteering/outreach)
-- Right hand (independent combat capabilities)
-- Mind (research, defense)
-- Heart (other)
+The structure of the Order is broken into seven functions:
+- Head of the Order (administration)
+- Eyes of the Order (information gathering)
+- Mouth of the Order (PR/evangelization)
+- Left Hand of the Order (volunteering/outreach)
+- Right Hand of the Order (independent combat force)
+- Mind of the Order(research/defense)
+- Heart of the Order (other)
