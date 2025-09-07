@@ -4,7 +4,7 @@ tags:
 ---
 The **Mage's College** is an ancient institution in [[Laskar]], offering tutelage and financing to those attuned to the Source.
 
-The students and faculty of the college have many differing perspectives and opinions, but the institution is fundamentally oriented around progress.
+The college's students and faculty are diverse in their backgrounds and opinions, but the institution is fundamentally oriented around progress.
 
 Departments:
 - Artifacts and Artifice (magic items)

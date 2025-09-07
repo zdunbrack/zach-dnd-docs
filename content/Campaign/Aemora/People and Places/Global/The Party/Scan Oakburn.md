@@ -2,4 +2,4 @@
 tags:
 
 ---
-**Scan Oakburn** is a dwarf from [[Giatto]].
+**Scan Oakburn** is a dwarven cleric from [[Giatto]]. He worships [[Gidara]].
