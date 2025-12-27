@@ -10,4 +10,4 @@ Their members are:
 - [[Scan Oakburn]]
 - [[Temple Roan]]
 
-[[Friti Hernandez]] is also tagging along.
+[[Friti Hernandez]] is also tagging along in search of information about his mother, [[Maria Nenzune Hernandez]].
