@@ -9,3 +9,5 @@ Their members are:
 - [[Etar Ildvar]]
 - [[Scan Oakburn]]
 - [[Temple Roan]]
+
+[[Friti Hernandez]] is also tagging along.
