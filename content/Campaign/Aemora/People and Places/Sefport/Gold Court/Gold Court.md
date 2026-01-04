@@ -2,6 +2,11 @@
 tags:
 
 ---
-The **Gold Court** is [[Sefport]]'s town government. It is made up of each of Sefport's four guilds alongside the [[Inspectors]], with the five leaders each having one vote in legislative decisions.
+The **Gold Court** is [[Sefport]]'s town government, run by its Guilds:
+- [[Aether]]
+- [[Coast]]
+- [[Hearth]]
+- [[Steel]]
+- The [[Inspectors]]
 
-Each guild has its own area of business and of governance, where the other guilds are expected to keep them in check.
+Each guild has its own area of business and of governance, kept in check by the competing interests of the other guilds.
