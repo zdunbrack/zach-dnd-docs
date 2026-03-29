@@ -9,6 +9,7 @@ The four of [[The Circle]]:
 - [[Kruhena]]
 - [[Myskili]]
 - [[Elzanir]]
+
 and the three of [[The Triad]]:
 - [[Gidara]]
 - [[Sylvaris]]
