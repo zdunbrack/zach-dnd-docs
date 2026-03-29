@@ -2,7 +2,7 @@
 tags:
 
 ---
-The **Septenary Order** is the primary religious institution in [[Aemora]], coordinating worship of [[The Seven]] across the continent.
+ The **Septenary Order** is the primary religious institution in [[Aemora]], coordinating worship of [[The Seven]] across the continent.
 
 The Order is broken into seven functions:
 - Head of the Order (functional administration)

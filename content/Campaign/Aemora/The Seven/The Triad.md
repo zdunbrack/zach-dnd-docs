@@ -2,7 +2,7 @@
 tags:
 
 ---
-The **New Gods** is a term for the collection of gods in this world related to ideas of civilization and humanity. These are [[Gidara]], [[Sylvaris]], and [[Raxus]].
+**The Triad** is a term for the collection of gods in this world related to ideas of civilization and humanity. These are [[Gidara]], [[Sylvaris]], and [[Raxus]].
 
 In conventional myth, Raxus is the oldest of the three, followed by Gidara, then Sylvaris. It is said that in ancient times, there was a great struggle between the beings of this plane and those of another. It is from that struggle that Raxus found the strength of godhood, as this world needed to call upon his power.
 

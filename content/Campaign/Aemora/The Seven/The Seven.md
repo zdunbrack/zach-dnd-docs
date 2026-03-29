@@ -4,12 +4,12 @@ tags:
 ---
 **The Seven** is the name of the pantheon of [[Aemora]]. They consist of seven gods:
 
-The four [[Old Gods]]:
+The four of [[The Circle]]:
 - [[Nilhitu]]
 - [[Kruhena]]
 - [[Myskili]]
 - [[Elzanir]]
-and the three [[New Gods]]:
+and the three of [[The Triad]]:
 - [[Gidara]]
 - [[Sylvaris]]
 - [[Raxus]]

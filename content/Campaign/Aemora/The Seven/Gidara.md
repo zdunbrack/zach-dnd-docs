@@ -2,7 +2,7 @@
 tags:
 
 ---
-**Gidara** is the goddess of order and craftsmanship. She forms the trio known as the [[New Gods]] alongside [[Sylvaris]] and [[Raxus]], whose combined domain covers civilization and its consequences.
+**Gidara** is the goddess of order and craftsmanship. She forms the trio known as [[The Triad]] alongside [[Sylvaris]] and [[Raxus]], whose combined domain covers civilization and its consequences.
 
 Among Gidara's symbols are the hammer, crown, and quill, though other craftsman's tools such as an axe or saw substitute for the same purpose. Gidara herself is often depicted as a queen, seamstress, or guard.
 

@@ -7,6 +7,6 @@ tags:
 The city is run by [[Syndra Kelcyne]], a middle-aged elf noble with ties to the College.
 
 ## Map
-Below is a map 
+Below is a map of the city.
 
 ![[laskar.png]]
