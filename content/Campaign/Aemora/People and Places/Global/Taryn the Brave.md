@@ -18,7 +18,7 @@ Everything changed in 1295 Summer, when Taryn and Lavi were attacked by some loc
 
 After that, Taryn is said to have transformed into a different person. In his despair, he found his faith and the fervor that would drive him to strengthen the country's bonds and protect its people. The trend in the late 13th century had been for cities to largely handle their own affairs, with the "nation" being a vague construct of taxation and protection from theoretical external threats to the continent. No more. Taryn quickly found himself with a strong wave of support behind him, and he rose to prominence from Artavera to Zargas and to [[Aemora]] as a whole, bringing the country into such a fervor that his ascendancy to [[Lord of Zargas]] was all but certain.
 
-So as the century changed, so did the Lordship, and Taryn set to implementing his will. Over the following decade, he created the [[Steel Legion]] and its four units. He selected the leaders for each:
+So as the century changed, so did the Lordship, and Taryn set to implementing his will. Over the following decades, he created the [[Steel Legion]] and its four units. He selected the leaders for each:
 
 [[Pulomi Ligato]], the former head of Zargas's military, would command the [[Red Rangers]];    
 [[Miggora Artoli]], a rising star with a penchant for adventure and monster hunting, would run the [[Silver Blade]];    
